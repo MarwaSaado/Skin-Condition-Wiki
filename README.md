@@ -6,7 +6,7 @@
 * React JS Library V17.0.1
 * MySQL DB 
 
-## The project is split into two section :
+## The project is split into two branches :
 
 ## FrontEnd :
 
