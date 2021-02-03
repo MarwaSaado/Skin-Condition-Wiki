@@ -6,34 +6,10 @@
 * React JS Library V17.0.1
 * MySQL DB 
 
-## The project is split into two branches :
-
-## FrontEnd :
-
-Which is a set of web pages implemented using React js Library.
-
-Some of the packages used in this section (axios {dealing with API} , react-bootstrap {design} , @material-ui/core {design}, Formik {validation for Forms}).
-
-### how to setup :
-
-* Download Frontend folder as ZIP
-* Extract Frontend.zip folder.
-* Right click on Frontend folder and then open (git bash tool) or any cmd you like in this directory.
-* Type these commands :
-
-```
-$ npm install
-$ npm start
-```
-
-* then your default web browser opens by itself and Front-end server running on port (3000 if it's available).
-
-* if (:3000 not available) cmd tool will ask you to use a different port.
-
-* finally it is done , enjoy it :)
+## The project is split into two branches : Frontend and Backend
 
 
-### Connecting to DB :
+## Connecting to DB :
 * first you need to install Xampp(or and other server).
 * after installation run the program and then start both (Apache and MySQL).
 * then run your backEnd server.
@@ -75,3 +51,32 @@ $ npm run dev
 $ npm test                      
 ```
 
+## FrontEnd :
+
+Which is a set of web pages implemented using React js Library.
+
+Some of the packages used in this section (axios {dealing with API} , react-bootstrap {design} , @material-ui/core {design}, Formik {validation for Forms}).
+
+### how to setup :
+
+* Download Frontend folder as ZIP
+* Extract Frontend.zip folder.
+* Right click on Frontend folder and then open (git bash tool) or any cmd you like in this directory.
+* Type these commands :
+
+```
+$ npm install
+$ npm start
+```
+
+* then your default web browser opens by itself and Front-end server running on port (3000 if it's available).
+
+* if (:3000 not available) cmd tool will ask you to use a different port.
+
+* finally it is done , enjoy it :)
+* note that this aplication doesn't support sign up feature which meansthat all the usrs are already exist in the system. So to test the application use the following accout to sign in.
+# email:
+user1@abc.com
+
+# password:
+123456789
