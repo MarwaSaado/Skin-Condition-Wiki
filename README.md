@@ -74,9 +74,4 @@ $ npm start
 * if (:3000 not available) cmd tool will ask you to use a different port.
 
 * finally it is done , enjoy it :)
-* note that this aplication doesn't support sign up feature which meansthat all the usrs are already exist in the system. So to test the application use the following accout to sign in.
-# email:
-user1@abc.com
-
-# password:
-123456789
+* note that this aplication doesn't support sign up feature which meansthat all the usrs are already exist in the system. So to test the application use the following accout to sign in. email: user1@abc.com     password:123456789
